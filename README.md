@@ -24,7 +24,7 @@ git clone https://github.com/E3nviction/GoTasks.git
 ```
 Change directory:
 ```bash
-cd tasks
+cd GoTasks
 ```
 Build the project:
 ```bash
