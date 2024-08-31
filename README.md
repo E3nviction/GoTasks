@@ -1,7 +1,6 @@
 # GoTasks
 ---
 GoTasks is a simple command-line interface (CLI) tool written in Go to help you manage your tasks. You can add, delete, edit, move, complete and view tasks easily. The tasks are stored in a CSV file for persistence.
----
 
 ### Features
 Add Task: Add a new task with a description.
