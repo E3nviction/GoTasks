@@ -1,0 +1,10 @@
+## 1.0.0  
+Initial Release  
+Added Commands:  
+- add  
+- list  
+- delete  
+- edit  
+- move  
+- get  
+- complete  
